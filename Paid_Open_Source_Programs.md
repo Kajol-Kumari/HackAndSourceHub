@@ -1,4 +1,4 @@
-# Paid Open-Source Programs for Tech Enthusiasts
+# Paid Open-Source Programs
 
 Open-source software is publicly accessible and allows anyone with the right skills to contribute to its development. It's an ideal platform for tech beginners to gain real-world experience, learn, and build their portfolio.
 
